@@ -37,5 +37,8 @@ a:link {
   text-decoration: none;
   padding: .4em .75em .5em;
   display: inline-block;
+  border-color: #666;
   border-radius: 4px;
+  color: #333;
+
 }
