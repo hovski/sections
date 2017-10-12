@@ -11,6 +11,10 @@ html {
   box-sizing: border-box;
 }
 
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
 body {
   margin: 0;
 }
@@ -18,7 +22,7 @@ body {
 .box-1 {
   max-width: 25em;
   display: inline-block;
-  padding: 2em;
+  padding: 2em 1em;
   margin: 0;
 }
 
