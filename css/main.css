@@ -47,6 +47,7 @@ img {
 .box-2 p {
   margin-bottom: 1.5rem;
   text-align: left;
+  font-weight: bold;
   padding: 0;
 }
 
