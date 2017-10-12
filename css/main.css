@@ -17,6 +17,10 @@ html {
   margin: 0;
 }
 
+img {
+  width: 100%;
+}
+
 .box-2 {
   max-width: 25em;
   display: inline-block;
@@ -38,8 +42,13 @@ a:link {
   padding: .4em .75em .5em;
   display: inline-block;
   border-color: #666;
-  border-width: 2px;
+  border-style: solid;
+  border-width: 3px;
   border-radius: 4px;
   color: #333;
-
+}
+a:hover {
+  text-decoration: none;
+  background-color: #666;
+  color: #eee9de;
 }
