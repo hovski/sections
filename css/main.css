@@ -38,6 +38,7 @@ a:link {
   padding: .4em .75em .5em;
   display: inline-block;
   border-color: #666;
+  border-width: 2px;
   border-radius: 4px;
   color: #333;
 
