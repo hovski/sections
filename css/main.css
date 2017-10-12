@@ -62,3 +62,6 @@ a:hover {
   background-color: #666;
   color: #eee9de;
 }
+.btn {
+  align-self: left;
+}
