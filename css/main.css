@@ -18,7 +18,7 @@ body {
 .box-1 {
   max-width: 25em;
   display: inline-block;
-  padding: 2em 1em;
+  padding: 2em;
   margin: 0;
 }
 
@@ -42,7 +42,6 @@ img {
   text-decoration: none;
   font-weight: bold;
   padding: 0;
-  display: inherit;
 }
 
 .box-2 p {
