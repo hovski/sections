@@ -25,6 +25,7 @@ body {
 img {
   width: 100%;
   display: block;
+  vertical-align: middle;
 }
 
 .box-2 {
@@ -36,10 +37,12 @@ img {
 
 .box-2 h2 {
   margin-bottom: 1.5rem;
+  text-align: left;
 }
 
 .box-2 p {
   margin-bottom: 1.5rem;
+  text-align: left;
 }
 
 a,
