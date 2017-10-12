@@ -60,6 +60,7 @@ a:link {
   border-width: 3px;
   border-radius: 6px;
   color: #333;
+  margin: 0;
 }
 
 a:hover {
