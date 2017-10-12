@@ -8,6 +8,11 @@ html {
   line-height: 1.5;
   color: #333;
   background-color: #eee9de;
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
 }
 
 .box-1 {
@@ -19,6 +24,7 @@ html {
 
 img {
   width: 100%;
+  display: inline-block;
 }
 
 .box-2 {
