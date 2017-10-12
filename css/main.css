@@ -54,7 +54,8 @@ img {
 a,
 a:link {
   text-decoration: none;
-  padding: .2em .50em .4em;
+  padding: .4em .75em .5em;
+  margin: 0;
   display: inline-block;
   border-color: #666;
   border-style: solid;
