@@ -1,16 +1,40 @@
-html {
-  box-sizing: border-box;
-  font: normal 100%/1.5 "Lato", sans-serif;
-  color: #666;
-  background-color: #eee9de;
-  margin: 1.5rem;
-
-}
-
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-header {
+html {
+  font-family: Lato, sans-serif;
+  text-align: center;
+  line-height: 1.5;
+  color: #333;
+  background-color: #eee9de;
+}
+
+.box-1 {
+  max-width: 25em;
+  display: inline-block;
+  padding: 2em 1em;
+  margin: 0;
+}
+
+.box-2 {
+  max-width: 25em;
+  display: inline-block;
+  padding: 1em;
+  margin: 0;
+}
+
+.box-2 h2 {
+  margin-bottom: 1.5rem;
+}
+
+.box-2 p {
+  margin-bottom: 1.5rem;
+}
+
+a,
+a:link {
+  text-decoration: none;
+  padding: .4em .75em .5em;
 
 }
