@@ -37,5 +37,5 @@ a:link {
   text-decoration: none;
   padding: .4em .75em .5em;
   display: inline-block;
-
+  border-radius: 4px;
 }
