@@ -32,7 +32,7 @@ img {
 .box-2 {
   max-width: 25em;
   display: inline-block;
-  padding: 1em;
+  padding: 0 1em 2em 1em;
   margin: 0;
 }
 
@@ -69,5 +69,4 @@ a:hover {
 
 .btn {
   float: left;
-  margin-bottom: 1.5em;
 }
