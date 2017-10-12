@@ -32,7 +32,7 @@ img {
 .box-2 {
   max-width: 25em;
   display: inline-block;
-  padding: 1em;
+  padding: 0em;
   margin: 0;
 }
 
@@ -41,6 +41,7 @@ img {
   text-align: left;
   text-decoration: none;
   font-weight: bold;
+  padding: 0;
 }
 
 .box-2 p {
