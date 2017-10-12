@@ -1,0 +1,16 @@
+html {
+  box-sizing: border-box;
+  font: normal 100%/1.5 "Lato", sans-serif;
+  color: #666;
+  background-color: #eee9de;
+  margin: 1.5rem;
+
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+header {
+
+}
