@@ -39,7 +39,7 @@ img {
 }
 
 .box-2 h2 {
-  margin-bottom: 1.9rem;
+  margin-bottom: 1.5rem;
   text-align: left;
   text-decoration: none;
   font-weight: bold;
@@ -63,7 +63,7 @@ a:link {
   border-width: 3px;
   border-radius: 6px;
   color: #333;
-  font-size: 1.3em;
+  font-size: 1.1em;
 }
 
 a:hover {
